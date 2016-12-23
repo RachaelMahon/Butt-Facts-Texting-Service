@@ -16,7 +16,7 @@ In this case, the service sends medically untrue facts about the human butt to a
 
                 - buttfacts.txt (or whatever you want to send your friends and change the reference to this text file in the code)
                     The format is one string on every line like this:
-                                The Butt was invented in 1948 by Timothy Butt
+                     The Butt was invented in 1948 by Timothy Butt
 
                 - subscribers.txt (this is a list of your text contacts)
                     The format is on entry on every line like this:
