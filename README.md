@@ -8,11 +8,11 @@ In this case, the service sends medically untrue facts about the human butt to a
 
 ##How to Use This Boiler Plate
 
-**1** Clone this repo
+**1.**  Clone this repo
 
-**2** Go to https://www.twilio.com/ and sign up to get your account_sid,    auth_token and from number
+**2.**  Go to https://www.twilio.com/ and sign up to get your account_sid,    auth_token and from number
 
-**3** Set up 3 files in the same folder
+**3.**  Set up 3 files in the same folder
 
                 - buttfacts.txt (or whatever you want to send your friends and change the reference to this text file in the code)
                     The format is one string on every line like this:
@@ -28,14 +28,14 @@ In this case, the service sends medically untrue facts about the human butt to a
                     account_sid,B4EJLEDR3E61OUP5OU4ROUBLATLUBLEP225
                     auth_token,920CLEDRL8NIACRIACH83JIENLUGOAPOEJI
 
-**4** Run bundle install
+**4.**  Run bundle install
 
-**5** Open up IRB
+**5.**  Open up IRB
 
-**6** require './buttfacts_text' (or whatever you have changed the name to)
+**6.**  Run the command require './buttfacts_text' (or whatever you have changed the name to)
 
-**7** x = Messenger.new
+**7.**  Run the command x = Messenger.new
 
-**8** x.send_butt_fact
+**8.**  Run the command x.send_butt_fact
 
-**9** You should receive confirmation in the terminal printing the name of the people who have successful been de-educated about butts.
+**9.**  You should receive confirmation in the terminal printing the name of the people who have successful been de-educated about butts.
