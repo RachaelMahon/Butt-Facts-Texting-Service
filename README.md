@@ -1,12 +1,12 @@
-#The Butt Facts Texting Service# 
+#The Butt Facts Texting Service
 
-##Introduction##
+##Introduction
 
 The Butt Facts Texting Service is a boiler plate terminal based program for sending bulk texts to lists of contacts with random content using the Twilio app.
 
 In this case, the service sends medically untrue facts about the human butt to a list of my subscribers by text message.
 
-##How to Use This Boiler Plate##
+##How to Use This Boiler Plate
 
 1 Clone this repo
 
